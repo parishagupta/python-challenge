@@ -1,2 +1,2 @@
 # python-challenge
-# Completed with help from TA Dwight Thieme
+### Completed with help from TA Dwight Thieme
