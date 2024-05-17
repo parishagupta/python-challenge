@@ -1,0 +1,7 @@
+-------------- Financial Analysis --------------
+Total Months:                                 86
+Net Profits:                          22,564,198
+Avgerage Change:                          -8,311
+Greatest Increase:       Aug-16        1,862,002
+Greatest Decrease:       Feb-14       -1,825,558
+------------------------------------------------
